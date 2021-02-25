@@ -1,5 +1,5 @@
 {
-   "name": "Message-Logger",
+   "name": "message-logger",
    "description": "A Discord selfbot to log edited and deleted messages.",
    "repository": "https://github.com/ClawSbs/Message-Logger",
    "logo": "https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png",
