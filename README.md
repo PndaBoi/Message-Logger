@@ -1,2 +1,2 @@
-# Token-Information
- A Discord selfbot to display information from a Discord token.
+# Message-Logger
+ A Discord selfbot to log edited and deleted messages.
